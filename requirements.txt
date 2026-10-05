@@ -1,7 +1,4 @@
 requests
 rich
-pyrogram 
+kurigram 
 tgcrypto
-pydantic
-free-proxy
-telegraph
